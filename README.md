@@ -1,5 +1,5 @@
 #ChessSDL2
-To run the game, you need to add and link SDL2 libraries to the project. In case you're not familiar with it,
+To run the game, you need to add and link SDL2 libraries (SDL2 devel, SDL2 ttf, SDL 2 image-devel) to the project. In case you're not familiar with it,
 there is a link with a short YouTube video guide: https://www.youtube.com/watch?v=PrDdfALWH_4.
 
 // Personal note
