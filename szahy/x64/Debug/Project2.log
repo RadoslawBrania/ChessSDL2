@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (szahy.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  Source.cpp
+C:\Users\shini\Desktop\szahy\Source.cpp(614,3): warning C4551: wywołaniu funkcji brakuje listy argumentów
+C:\Users\shini\Desktop\szahy\Source.cpp(624,4): warning C4551: wywołaniu funkcji brakuje listy argumentów
+C:\Users\shini\Desktop\szahy\Source.cpp(634,75): warning C4244: "=": konwersja z "_Rep" do "double", możliwa utrata danych
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\shini\Desktop\szahy\Source.cpp(658,3): warning C4551: wywołaniu funkcji brakuje listy argumentów
+C:\Users\shini\Desktop\szahy\Source.cpp(551): warning C4715: "endinput”: niewszystkie ścieżki kodu zwracają wartość
+  Project2.vcxproj -> C:\Users\shini\Desktop\szahy\x64\Debug\Project2.exe
